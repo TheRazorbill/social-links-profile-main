@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/)
+- Live Site URL: [live site]([https://your-live-site-url.com](https://therazorbill.github.io/social-links-profile-main/))
 
 ---
 
